@@ -1,2 +1,2 @@
-# A-Warehouse-cpmpany-landing
-A Warehouse cpmpany landing
+# A-Warehouse-company-landing
+A Warehouse company landing
